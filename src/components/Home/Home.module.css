@@ -1,0 +1,8 @@
+h1{font-family: "Pacifico", cursive;}
+.card img {
+  transition: transform 0.6s ease; /* مدة ونعومة الدوران */
+}
+
+.card:hover img {
+  transform: rotate(360deg);
+}
